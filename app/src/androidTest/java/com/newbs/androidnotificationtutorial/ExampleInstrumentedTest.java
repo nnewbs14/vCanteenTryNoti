@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidnotificationtutorial;
+package com.newbs.androidnotificationtutorial;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

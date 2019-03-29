@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidnotificationtutorial;
+package com.newbs.androidnotificationtutorial;
 
 import java.io.Serializable;
 

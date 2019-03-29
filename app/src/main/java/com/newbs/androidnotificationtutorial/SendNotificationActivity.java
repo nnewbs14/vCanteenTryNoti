@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidnotificationtutorial;
+package com.newbs.androidnotificationtutorial;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -61,7 +61,7 @@ public class SendNotificationActivity extends AppCompatActivity {
 
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://androidnotificationtutorial.firebaseapp.com/api/")
+                .baseUrl("https://vcanteentrynoti-1532f.firebaseapp.com/api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

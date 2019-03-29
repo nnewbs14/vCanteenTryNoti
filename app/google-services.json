@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253280269928",
+    "firebase_url": "https://vcanteentrynoti-1532f.firebaseio.com",
+    "project_id": "vcanteentrynoti-1532f",
+    "storage_bucket": "vcanteentrynoti-1532f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253280269928:android:1560a2df78cfcfa3",
+        "android_client_info": {
+          "package_name": "com.newbs.androidnotificationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253280269928-aul53bj0pojtigbiqvvqp08j9h6p5qn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newbs.androidnotificationtutorial",
+            "certificate_hash": "d3d7fd81f1c4ae111b576ab554dde1730c6c678a"
+          }
+        },
+        {
+          "client_id": "253280269928-1ovsvjtf813u3aicla8f0h8clloeo6tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAgKXdcF07aPZsvA5y5Bh_3dXslXw278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253280269928-1ovsvjtf813u3aicla8f0h8clloeo6tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
